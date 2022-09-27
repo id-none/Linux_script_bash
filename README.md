@@ -1,2 +1,2 @@
-# Linux_script_bash
+# Linux_script_basic
 Simple linux operation and maintenance script
